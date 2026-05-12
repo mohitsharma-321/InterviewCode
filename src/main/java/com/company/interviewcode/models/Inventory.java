@@ -15,6 +15,6 @@ public class Inventory {
 
     public Inventory(String liciousKiInventory, int i) {
         this.productName = liciousKiInventory;
-        this.quantity = i
+        this.quantity = i;
     }
 }
